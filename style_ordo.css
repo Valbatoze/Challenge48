@@ -1,0 +1,55 @@
+*{
+    margin: 30px;
+}
+
+main{
+    border: 1px black solid;
+}
+
+header{
+    background-color: rgb(9, 9, 70);
+    color: white;
+    text-transform: uppercase;
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+}
+
+#title_h4{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.test_sect{
+    display: flex;
+    justify-content: space-around;
+
+}
+.test{
+    text-align: center;
+    border: 1px black solid;
+    height: 200px;
+    width: 350px;
+}
+
+div{
+    margin-top: 5%;
+    border: 2px black solid;
+}
+
+.text{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.mini_title{
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.medecin{
+    margin: 40% auto;
+}
